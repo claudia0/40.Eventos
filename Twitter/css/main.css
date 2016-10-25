@@ -1,0 +1,23 @@
+header{
+	background-color: lightgrey;
+	color: black;
+	margin-bottom: 3%;
+
+}
+textarea {
+    overflow-y: scroll;
+    height: 80px;
+}
+footer{
+	background-color: lightgrey;
+	color: white;
+	margin-top: 400px;
+}
+
+ ul li {
+	text-decoration: none;
+	color: red;
+}
+h1{
+	color: blue;
+}
