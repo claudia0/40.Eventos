@@ -3,11 +3,15 @@ body{
 }
 
 header{
-	background-color: grey;
+	background-color: #EE9917;
 	color: black;
 	margin-bottom: 3%;
 	height: 70px;
 
+}
+#caja{
+	background-color: #5D4E4E;
+	padding: 2%;
 }
 textarea {
     overflow-y: scroll;
@@ -18,8 +22,9 @@ footer{
 	color: white;
 	margin-top: 400px;
 }
-h1{
-	color: darkgrey;
+h2,p{
+	color: #FFF;
+	font-family: Verdana;
 }
 .label-color{
 	background-color: black;
